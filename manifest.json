@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "subject-index",
+	"name": "Subject Index",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Provides an A-Z book-style keyword index for Obsidian",
+	"author": "MrBertie",
+	"authorUrl": "https://github.com/MrBertie/subject-index",
+	"fundingUrl": "https://github.com/MrBertie/subject-index",
 	"isDesktopOnly": false
 }
