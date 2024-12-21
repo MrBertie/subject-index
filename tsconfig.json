@@ -11,6 +11,7 @@
     "importHelpers": true,
     "isolatedModules": true,
     "strictNullChecks": true,
+    "typeRoots": ["../../typings", "./"],
     "lib": [
       "DOM",
       "ES5",
